@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="hello-spring">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/hello-spring.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
