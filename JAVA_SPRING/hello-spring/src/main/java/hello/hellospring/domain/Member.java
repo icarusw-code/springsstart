@@ -2,6 +2,7 @@ package hello.hellospring.domain;
 
 public class Member {
 
+    //바뀌었는지 테스트
     private Long id;
     private String name;
 
